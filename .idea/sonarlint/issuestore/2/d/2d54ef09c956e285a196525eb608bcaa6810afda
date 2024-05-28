@@ -1,0 +1,15 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¿¡ıÿÿÿÿJ$90c477e7-73bb-44d4-8948-09d51a4022fb
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "human".(ŸÀùÌÿÿÿÿÿJ$eef8b17e-6e25-49e9-997e-1016fff4b979
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èê¶ŒúÿÿÿÿJ$d876db06-6212-44ed-a720-35053e2ffcb3
+z
+java:S1117"9Rename "human" which hides the field declared at line 17.(ŸÀùÌÿÿÿÿÿJ$9fc44396-2370-4e80-a92d-38b7432e4215
+z
+java:S1117("9Rename "human" which hides the field declared at line 17.(½ï‡‹ùÿÿÿÿJ$5d5da365-6803-430e-8a6d-1e7aa8502f1b
+c
+java:S11251"'Remove the unnecessary boolean literal.(©°¦¾J$580c8353-ff81-4b58-bf5e-d8f3caedc3b2
+z
+java:S1117?"9Rename "human" which hides the field declared at line 17.(½ï‡‹ùÿÿÿÿJ$a44d817a-688b-4bcb-964b-3631c0deb71d
+j
+java:S1068")Remove this unused "human" private field.(²ÂÈèøÿÿÿÿJ$899635a0-b7cb-4104-b45f-e049221a1929

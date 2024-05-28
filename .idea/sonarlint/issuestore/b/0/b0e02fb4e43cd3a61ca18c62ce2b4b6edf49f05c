@@ -1,0 +1,6 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΄†Κ¨ύÿÿÿÿJ$e5414472-eddb-416c-b42b-5827ce3f6966
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΜΟJ$d0aeb426-fb57-48fd-9295-7f9c913291f6
+	java:S116"SRename this field "id_depth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(β£¨›J$2d435a53-f361-4ded-9c9d-441151701ef5
+w	java:S125"<This block of commented-out lines of code should be removed.(σ¤ώμJ$f53d4bae-022b-4749-9137-9a72dd192b8e
+	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ά·‹ύÿÿÿÿJ$f46c2a50-e56d-4132-a927-5daa5f51f50c

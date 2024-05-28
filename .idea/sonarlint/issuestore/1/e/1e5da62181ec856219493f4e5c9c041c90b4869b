@@ -1,0 +1,12 @@
+
+
+java:S1192"KDefine a constant instead of duplicating this literal "Lastname_2" 3 times.(Şÿï³8¥€ò†ü1J$8a251f5c-872d-4707-a2af-2c8fd3233d74
+’
+java:S1192"ODefine a constant instead of duplicating this literal "Middlename_1_1" 4 times.(Â¹¤†8¦€ò†ü1J$52ee83af-1841-4f57-9c21-62b5b7e798f0
+
+java:S1192"KDefine a constant instead of duplicating this literal "Lastname_1" 5 times.(Â¹¤†8¦€ò†ü1J$4e1e84ad-09a7-4008-b238-bf83ebd2c8e7
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷õÁ8¨€ò†ü1J$a87350ad-b4a7-4a91-83fe-f88f725a0c0a
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èê¶Œúÿÿÿÿ8ª€ò†ü1J$e06021a1-2481-468b-aae8-c27ca1e090f9
+l
+java:S1481")Remove this unused "Type" local variable.(÷õÁ8¸€ò†ü1J$809c6354-cd83-4850-a1b5-ba9a4c8c1b0c
+r	java:S106("+Replace this use of System.out by a logger.(Ûñûøÿÿÿÿÿ8Ä€ò†ü1J$40e775d5-6c41-4637-ab6f-7c02b176f184

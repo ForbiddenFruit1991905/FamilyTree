@@ -1,0 +1,22 @@
+
+
+java:S1104"QMake Child a static final constant or non-public and provide accessors if needed.(–›­ÆJ$d086040e-b87c-4ba6-9686-6873227f5332
+g
+java:S1444"+Make this "public static Child" field final(–›­ÆJ$d3441c58-f82e-43fa-8b53-145f0e4f9a57
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤‡ÓÀJ$2b587543-33b7-409b-8bd4-69dc6a1d2198
+¢
+java:S4165"aRemove this useless assignment; "id2" already holds the assigned value along all execution paths.(¸©§ııÿÿÿÿJ$ac4f42ea-bbd1-44e2-99d7-03b1f01c83fc
+Œ
+java:S3008"PRename this field "Child" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–›­ÆJ$bd2e00eb-5c38-41df-b614-8fc350dd4424
+]
+java:S1659"!Declare "id2" on a separate line.(³¼ÇJ$01f9ddaa-5c43-453c-957a-6d392c0b3a48
+•	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ“á“J$8f1ccb7d-94be-4a53-8f03-0f9856fae4f5
+”	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äÓ;J$26f0fb91-748b-401e-a651-39550eeda0dd
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²âÚïùÿÿÿÿJ$0403e662-d49e-4247-84ae-255442c5a0bd
+k
+java:S1172"*Remove this unused method parameter "id0".(ô×–öúÿÿÿÿJ$9ce8b691-803b-44c9-be76-90a57668d0bd
+t
+java:S1117$"8Rename "type" which hides the field declared at line 15.(Ä¡×…J$1be11b75-759b-499f-b5dd-ef8275c40457
+p
+java:S1656"/Remove or correct this useless self-assignment.(¸©§ııÿÿÿÿJ$22465598-db2c-413d-a4a2-d2f57c95cbc8
